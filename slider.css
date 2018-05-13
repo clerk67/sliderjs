@@ -1,0 +1,13 @@
+.slider {
+  position: relative;
+}
+.current {
+  font-size: x-large;
+  margin-top: 4px;
+}
+.guide-up, .guide-down {
+  font-size: small;
+  position: absolute;
+  top: 0;
+  z-index: -10;
+}
