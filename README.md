@@ -2,6 +2,10 @@
 
 HTML5 input component controlled by drag and drop
 
+## Demo
+
+[**slider.js demo**](https://clerk67.github.io/sliderjs/)
+
 ## Dependencies
 
 - [jQuery](https://jquery.com) v3.x (**Notice:** Slim build cannot be used!)
