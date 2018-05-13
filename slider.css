@@ -2,8 +2,11 @@
   position: relative;
 }
 .current {
+  cursor: row-resize;
   font-size: x-large;
-  margin-top: 4px;
+  margin-top: 2px;
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
 }
 .guide-up, .guide-down {
   font-size: small;
